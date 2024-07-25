@@ -1,0 +1,21 @@
+{
+    "portfolio":[
+        {
+            "cover":"/portfolio/1/one.png",
+            "title": "PORTFOLIO",
+            "description": "React" 
+        },
+        {
+            "cover":"/portfolio/1/two.png",
+            "title": "Youtube Clone",
+            "description": "React, API, Material UI",
+            "url": "https://you-tube-clone-jsmastery.vercel.app"
+        },
+        {
+            "cover":"/portfolio/1/three.png",
+            "title": "Dashboard",
+            "description": "React, Syncfusion, Tailwind CSS",
+            "url":"https://dashboard-jsmastery.vercel.app"
+        }
+    ]
+}
